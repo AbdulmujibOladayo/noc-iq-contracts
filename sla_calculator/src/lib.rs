@@ -45,6 +45,7 @@ pub mod threshold_bounds;
 pub mod token_rescue;
 pub mod history_snapshot;
 pub mod outage_correlation_tag;
+pub mod penalty_bounds;
 pub mod rating;
 pub mod resolution_delay;
 pub mod reward_cap;
