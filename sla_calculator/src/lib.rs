@@ -47,6 +47,7 @@ pub mod history_snapshot;
 pub mod outage_correlation_tag;
 pub mod rating;
 pub mod resolution_delay;
+pub mod reward_cap;
 pub mod state_integrity;
 pub mod storage_helpers;
 pub mod threshold_config;
